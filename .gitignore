@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+cmake_install.cmake
+install_manifest.txt
+build/
+*-build/
+*.user
+*build*
